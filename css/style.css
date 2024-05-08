@@ -871,6 +871,21 @@ font-size: 0.95em;
 	-moz-border-radius: 5px;
 	-o-border-radius: 5px;
 }
+.contact-form input[type="email"] {
+	display: block;
+	width:70%;
+	padding: 10px;
+	outline: none;
+	margin: 0 0 1.5em;
+	color: #555;
+	background: #fff;
+	border: 1px solid #D5D5D5;
+	font-size: 0.9em;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+}
 .contact-form textarea {
 	display: block;
 	background: #fff;
