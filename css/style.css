@@ -25,7 +25,8 @@ h1,h2,h3,h4,h5,h6,label{
  font-family: 'Audiowide', cursive;
 }
 .banner{
-background: colour #161248
+    background:url('New_images/SolidBlue.png') no-repeat;
+    background-size: cover;
 	min-height: 600px;
 }
 .banner-in{
