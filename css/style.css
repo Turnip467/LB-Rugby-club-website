@@ -25,12 +25,12 @@ h1,h2,h3,h4,h5,h6,label{
  font-family: 'Audiowide', cursive;
 }
 .banner{
-    background:url('New_images/SolidBlue.png') no-repeat;
+    background:url('images/ba2.jpg') no-repeat;
     background-size: cover;
 	min-height: 600px;
 }
 .banner-in{
-    background:url('New_images/SolidBlue.png') no-repeat center;
+    background:url('images/ba2.jpg') no-repeat center;
     background-size: cover;
 	min-height: 100px;
 	padding: 3em 0;
