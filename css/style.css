@@ -115,6 +115,7 @@ ul.slides li h5{
 .top-nav{
 float: right;
       margin-top: 0.2em;
+	color: #18104b;
 }
 .top-nav ul li {
 	display:inline-block;
