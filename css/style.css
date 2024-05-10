@@ -133,7 +133,7 @@ float: right;
 	font-family: 'Open Sans', sans-serif;
 }
 .top-nav ul li.active  a,.top-nav ul li  a:hover {
-    color: #18104b;
+    color: #fff;
     background-color: #ea1c24;
     padding: 6px 16px;
     	transition: 0.5s all;
