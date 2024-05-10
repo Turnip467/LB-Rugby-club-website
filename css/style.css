@@ -134,7 +134,7 @@ float: right;
 }
 .top-nav ul li.active  a,.top-nav ul li  a:hover {
     color: #18104b;
-    background-color: #d1c792;
+    background-color: #ea1c24;
     padding: 6px 16px;
     	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
@@ -148,7 +148,7 @@ float: right;
 	-ms-border-radius: 4px;
 }
 .top-nav ul li  a:hover {
-	background-color:#d1c792;
+	background-color:#ea1c24;
 }
 .top-nav span.menu{
 	display: none;
@@ -252,7 +252,7 @@ padding:6.5% 0;
 	-ms-border-radius: 4px;
 }
 .rslides a:hover{
-	background:#d1c792;
+	background:#ea1c24;
 	text-decoration:none;
 }
 i.glyphicon.glyphicon-arrow-right {
@@ -384,7 +384,7 @@ div#nivo-lightbox-demo a {
 .b-grid1{
 	width:20%;
 	float:left;
-	background:#d1c792;
+	background:#ea1c24;
 	padding:1em;
 	    height: 200px;
 	    		transition: 0.5s all;
@@ -427,7 +427,7 @@ div#nivo-lightbox-demo a {
 .b-grid3{
 		width:20%;
 	float:left;
-	background:#d1c792;
+	background:#ea1c24;
 	padding:1em;
 	    height: 200px;
 }
@@ -465,7 +465,7 @@ div#nivo-lightbox-demo a {
 .b-grid5{
 		width:20%;
 	float:left;
-	background:#d1c792;
+	background:#ea1c24;
 	padding:1em;
 	    height: 200px;
 }
@@ -832,7 +832,7 @@ p.last-info{
 	color:#ed645c;
 }
 .coach-pic-info h5{
-	color:#d1c792;
+	color:#ea1c24;
 	margin-bottom:4px;
 }
 .coach-pic-info p{
@@ -905,7 +905,7 @@ font-size: 0.95em;
 	resize:none;
 }
 .contact-form input[type="submit"]{
-	background: #d1c792;
+	background: #ea1c24;
 	display: inline-block;
 	color: #FFF;
 	text-transform: uppercase;
@@ -1362,7 +1362,7 @@ ul.contact_social {
 }
 ul.contact_social li:first-child {
 	    margin-left: 0;
-    border: 1px solid#d1c792;
+    border: 1px solid#ea1c24;
     padding: 10px;
     border-radius: 50%;
     	transition: 0.5s all;
@@ -1384,7 +1384,7 @@ ul.contact_social li:first-child:hover {
 ul.contact_social li {
 	display: inline-block;
 	margin-right: 5px;
-	    border: 1px solid#d1c792;
+	    border: 1px solid#ea1c24;
     padding: 10px;
     border-radius: 50%;
 }
@@ -1455,14 +1455,14 @@ ul.contact_social li a i.message:hover{
 	padding: 0 0.3em;
 }
 .footer-nav li a:hover{
-	color: #d1c792;
+	color: #ea1c24;
 }
 p.footer-class{
 	font-size:1em;
 	padding:0.5em 0 0;
 }
 p.footer-class a{
-	color:#d1c792;
+	color:#ea1c24;
 	text-decoration:none;
 }
 p.footer-class a:hover{
@@ -1509,7 +1509,7 @@ p.footer-class a:hover{
 	margin: 18px 0 6px 0;
 }
 .about-left h5{
-  color: #d1c792;
+  color: #ea1c24;
   text-decoration: none;
   font-size: 1.2em;
 }
@@ -1533,7 +1533,7 @@ p.footer-class a:hover{
 }
 .ad-left p {
 	color: #fff;
-	background: #d1c792;
+	background: #ea1c24;
 	padding: 13px 0px;
 	border-radius: 50%;
 	-webkit-border-radius: 50%;
@@ -1666,7 +1666,7 @@ p.footer-class a:hover{
 	  color: #161248;
 }
 .services-main h4 span{
-	  color: #d1c792;
+	  color: #ea1c24;
 }
 .services-main a {
 	font-size: 1em;
@@ -1674,7 +1674,7 @@ p.footer-class a:hover{
 	color: #fff;
 	border: 1px solid;
 	padding: 8px 1em;
-	background: #d1c792;
+	background: #ea1c24;
 	    border-radius: 4px;
     -webkit-border-radius: 4px;
     -o-border-radius: 4px;
@@ -1728,7 +1728,7 @@ section#tables {
   margin-bottom: .7em;
   text-align: left;
   font-size: 2.5em;
-  color: #d1c792;
+  color: #ea1c24;
   font-weight: 400;
 }
 .bs-example h3 {
@@ -2128,7 +2128,7 @@ div#nivo-lightbox-demo img {
 	margin: 2% 0;
 }
 .contact-content input[type="submit"]{
-  background:#d1c792;
+  background:#ea1c24;
   color: #fff;
   font-weight: 500;
   border: none;
