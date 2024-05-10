@@ -325,10 +325,10 @@ ul.callbacks_tabs.callbacks1_tabs {
  }
 /*--/index-banner-slider--*/
 .header_bottom {
-/*      padding: 1.6em 0; */
+     padding: 0.5em 0;
   background:#18104b;
       position: relative;
-	height: 140px;
+	height: 100px;
 }
 .content-top {
        padding-bottom: 5em;
