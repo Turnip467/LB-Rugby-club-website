@@ -62,7 +62,7 @@ ul.slides li h5{
 	font-family: 'Audiowide', cursive;
     font-size: 3em;
         font-weight: 400;
-    color:#161c2c;
+    color:#ea1c24;
 }
 .logo  a h1:hover,.logo  a:hover{
  text-decoration:none;
@@ -74,7 +74,7 @@ ul.slides li h5{
 	height: 140px;
 }
 .header-top{
-	background:#161c2c;
+	background:#ea1c24;
 	padding: 0.8em 0 0.5em 0;
 }
 .header-top-left{
@@ -123,7 +123,7 @@ float: right;
 .top-nav ul li  a {
 	display:block;
 	outline: none;
-	color: #161c2c;
+	color: #ea1c24;
 	text-decoration: none;
 	font-size: 1.1em;
 	margin: 0 1em;
@@ -238,7 +238,7 @@ padding:6.5% 0;
     padding: 0.5em 0;
 }
 .rslides a{
-    background: #161c2c;
+    background: #ea1c24;
     padding: 13px 1px 13px 18px;
     color: #fff;
     display: block;
@@ -407,7 +407,7 @@ div#nivo-lightbox-demo a {
 .b-grid2{
 		width:20%;
 	float:left;
-	background:#161c2c;
+	background:#ea1c24;
 	padding:1em;
 	    height: 200px;
 }
@@ -445,7 +445,7 @@ div#nivo-lightbox-demo a {
 .b-grid4{
 		width:20%;
 	float:left;
-	background:#161c2c;
+	background:#ea1c24;
 	padding:1em;
 	    height: 200px;
 }
@@ -543,7 +543,7 @@ i.glyphicon.glyphicon-bullhorn{
 }
 .welcome h2 {
     font-size: 3em;
-    color:#161c2c;
+    color:#ea1c24;
 }
 .welcome p {
     font-size: 1em;
@@ -764,7 +764,7 @@ a.face-book {
     padding: 6em 0;
 }
 .welcome-pic h3,.coach h3,.popular h3{
-	color:#161c2c;
+	color:#ea1c24;
       font-size: 2.3em;
   margin:0 0 12px 0;
 }
@@ -782,7 +782,7 @@ a.face-book {
 	color:#999;
 }
 .popular ul li a:hover{
-  color: #161c2c;
+  color: #ea1c24;
   text-decoration: none;
       padding-left: 5px;
 } 
@@ -922,7 +922,7 @@ font-size: 0.95em;
 	-o-border-radius: 4px;
 }
 .contact-form input[type="submit"]:hover{
-	background: #161c2c;
+	background: #ea1c24;
 }
 /*--services--*/
 .project{	
@@ -1425,7 +1425,7 @@ ul.contact_social li a i.message:hover{
 }
 /*--footer--*/
 .footer{
-	background:#161c2c;
+	background:#ea1c24;
 	padding:3em 0;
 	color:#fff;
 }
@@ -1517,7 +1517,7 @@ p.footer-class a:hover{
 }
 .advantages-left h4 {
   font-size: 1.8em;
-  color:#161c2c;
+  color:#ea1c24;
 }
 .advantages-left h4{
 	  font-size: 1.8em;
@@ -1556,7 +1556,7 @@ p.footer-class a:hover{
 .ad-right h4{
 	  font-size: 1.2em;
 	text-decoration:none;
-		color: #161c2c;
+		color: #ea1c24;
 }
 .ad-right p {
   color: #555;
@@ -1588,7 +1588,7 @@ p.footer-class a:hover{
 	font-weight: 400;
 }
 .advn-two ul li a:hover{
-	  color: #161c2c;
+	  color: #ea1c24;
 	  text-decoration:none;
       margin-left: 10px;
 	transition: 0.5s all ease;
@@ -1662,7 +1662,7 @@ p.footer-class a:hover{
 	font-size: 6em;
 	font-weight: 700;
 	margin: 0.5em 0px;
-	  color: #161c2c;
+	  color: #ea1c24;
 }
 .services-main h4 span{
 	  color: #d1c792;
@@ -1681,7 +1681,7 @@ p.footer-class a:hover{
     -ms-border-radius: 4px;
 }
 .services-main a:hover {
-	background: #161c2c;
+	background: #ea1c24;
 	text-decoration: none;
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
@@ -2099,7 +2099,7 @@ div#nivo-lightbox-demo img {
 }
 .company_ad h3 {
     font-size: 1.7em;
-    color: #161c2c;
+    color: #ea1c24;
     font-weight: 600;
     margin: 0 0 0.5em;
     text-align: left;
@@ -2147,7 +2147,7 @@ div#nivo-lightbox-demo img {
 	-ms-transition:0.5s all;
 }
 .contact-content  input[type="submit"]:hover{
-	  background-color: #161c2c;
+	  background-color: #ea1c24;
 	  	transition:0.5s all;
 	-webkit-transition:0.5s all;
 	-moz-transition:0.5s all;
@@ -2292,7 +2292,7 @@ div#nivo-lightbox-demo img {
 		width: 100%;
 		z-index: 9999;
 		margin:1em 0em 0;
-		background:#161c2c;
+		background:#ea1c24;
 		border:0;
 		left:0;
 	}
@@ -2492,7 +2492,7 @@ div#nivo-lightbox-demo img {
 		width: 100%;
 		z-index: 9999;
 		margin:1em 0em 0;
-		background:#161c2c;
+		background:#ea1c24;
 		border:0;
 		left:0;
 	}
