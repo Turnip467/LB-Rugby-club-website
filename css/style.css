@@ -1453,7 +1453,7 @@ ul.contact_social li a i.message:hover{
 	font-size: 1em;
 	text-transform: uppercase;
 	text-decoration:none;
-	padding: 0 0.3em;
+/* 	padding: 0 0.3em; */
 }
 .footer-nav li a:hover{
 	color: #ea1c24;
