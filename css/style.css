@@ -1460,7 +1460,7 @@ ul.contact_social li a i.message:hover{
 }
 p.footer-class{
 	font-size:1em;
-	padding:0.5em 0 0;
+/* 	padding:0.5em 0 0; */
 }
 p.footer-class a{
 	color:#ea1c24;
