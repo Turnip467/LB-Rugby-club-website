@@ -1474,11 +1474,12 @@ p.footer-class a:hover{
     min-height: 113px;
 }
 .banner5 h2 {
-    font-size: 3em;
-    text-align: center;
-        padding-top: 0.55em;
-    color: #fff;
-	background-color: #18104b;
+font-size: 3em;
+text-align: center;
+padding-top: 0.2em;
+padding-bottom: 0.2em;
+color: #fff
+background-color: #161248;
 }
 /*--about-Part-starts-Here --*/
 .about-top {
